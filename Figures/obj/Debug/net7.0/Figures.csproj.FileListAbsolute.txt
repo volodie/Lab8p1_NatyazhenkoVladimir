@@ -1,0 +1,15 @@
+F:\visualstudio\rep\Figures\Figures\bin\Debug\net7.0\Figures.exe
+F:\visualstudio\rep\Figures\Figures\bin\Debug\net7.0\Figures.deps.json
+F:\visualstudio\rep\Figures\Figures\bin\Debug\net7.0\Figures.runtimeconfig.json
+F:\visualstudio\rep\Figures\Figures\bin\Debug\net7.0\Figures.dll
+F:\visualstudio\rep\Figures\Figures\bin\Debug\net7.0\Figures.pdb
+F:\visualstudio\rep\Figures\Figures\obj\Debug\net7.0\Figures.csproj.AssemblyReference.cache
+F:\visualstudio\rep\Figures\Figures\obj\Debug\net7.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+F:\visualstudio\rep\Figures\Figures\obj\Debug\net7.0\Figures.AssemblyInfoInputs.cache
+F:\visualstudio\rep\Figures\Figures\obj\Debug\net7.0\Figures.AssemblyInfo.cs
+F:\visualstudio\rep\Figures\Figures\obj\Debug\net7.0\Figures.csproj.CoreCompileInputs.cache
+F:\visualstudio\rep\Figures\Figures\obj\Debug\net7.0\Figures.dll
+F:\visualstudio\rep\Figures\Figures\obj\Debug\net7.0\refint\Figures.dll
+F:\visualstudio\rep\Figures\Figures\obj\Debug\net7.0\Figures.pdb
+F:\visualstudio\rep\Figures\Figures\obj\Debug\net7.0\Figures.genruntimeconfig.cache
+F:\visualstudio\rep\Figures\Figures\obj\Debug\net7.0\ref\Figures.dll
